@@ -11,12 +11,9 @@ Seek was Sophia Ramirez's first original game. Seek was an assignment for Georgi
 
 [Art](https://github.com/mooni121/Seek-PreAlpha/blob/main/Art.md)
 
-Music
+[Music](https://github.com/mooni121/Seek-PreAlpha/blob/main/Music.md)
 
 Scripts
-
-Unused Content
-
 
 
 ## Copyright Sophia Ramirez 2024, all rights reserved.
