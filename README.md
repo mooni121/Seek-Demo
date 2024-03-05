@@ -5,11 +5,11 @@ Seek is a 2D exploration pre-alpha entirely made by Sophia Ramirez in Unity vers
 
 Seek was Sophia Ramirez's first original game. Seek was an assignment for Georgia Virtual School's Game Design Animation and Simulation course. The assignment required that a unique game be created by the student within a one week deadline. All assets, designs, music, and coding was created by Sophia Ramirez. Seek is a passion project of Ramirez, and she plans on taking this project further in the future with new areas, features, music, and mechanics.
 
-### Directory
+### Directory:
 
 [Pre-Alpha Download](https://github.com/mooni121/Seek-PreAlpha/blob/main/Seek-Demo-Download.md)
 
-Art
+[Art](https://github.com/mooni121/Seek-PreAlpha/blob/main/Art.md)
 
 Music
 
