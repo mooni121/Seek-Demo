@@ -7,7 +7,7 @@ https://github.com/mooni121/Seek-PreAlpha/assets/92342973/f6c79105-1567-4ed9-853
 https://github.com/mooni121/Seek-PreAlpha/assets/92342973/5a16a088-0370-4126-a2c3-fc317ede631d
 
 
-### Unsused Tracks:
+### Unused Tracks:
 
 
 
